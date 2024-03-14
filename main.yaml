@@ -1,0 +1,9 @@
+name: telwechat
+pid: telwechat
+version: 1
+# window 带窗体
+# listen 监听窗口
+# run 直接运行
+type: window
+# 循环次数 0一直循环
+forTime: 1
